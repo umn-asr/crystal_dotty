@@ -2,3 +2,6 @@
 /lib/
 /.crystal/
 /.shards/
+
+dotty
+dotty*.zip
