@@ -6,8 +6,9 @@ Same cola flavor, but clear!
 
 # Usage
 
-- Get the binary (How? TBD.)
-- Run the binary (How? TBD.)
+- Install homebrew
+- brew tap umn-asr/homebrew-tap
+- brew install umn-asr/homebrew-tap/dotty
 
 | Command        | Result        |
 | ----           | ----          |
