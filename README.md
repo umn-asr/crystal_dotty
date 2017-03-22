@@ -7,8 +7,8 @@ Same cola flavor, but clear!
 # Usage
 
 - Install homebrew
-- brew tap umn-asr/homebrew-tap
-- brew install umn-asr/homebrew-tap/dotty
+- `brew tap umn-asr/homebrew-tap`
+- `brew install umn-asr/homebrew-tap/dotty`
 
 | Command        | Result        |
 | ----           | ----          |
