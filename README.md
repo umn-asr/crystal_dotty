@@ -4,7 +4,7 @@ Configuration/Dotfiles manager for the ASR Custom Solutions team.
 
 Same cola flavor, but clear!
 
-# Usage
+# Installation and Usage
 
 - Install homebrew
 - `brew tap umn-asr/homebrew-tap`
