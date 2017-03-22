@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+script/setup
+
+echo "===> Running tests..."
+
+crystal spec

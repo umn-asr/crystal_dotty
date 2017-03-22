@@ -1,0 +1,19 @@
+name: dotty
+version: 0.1.0
+
+authors:
+  - Ian Whitney <whit0694@umn.edu>
+
+license: WTFPL
+
+dependencies:
+  cli:
+    github: mosop/cli
+    version: 0.6.5
+
+  spec2:
+    github: waterlink/spec2.cr
+    version: ~> 0.9
+
+  stdio:
+    github: mosop/stdio
